@@ -1,24 +1,24 @@
-<h1>ButOSX</h1> <br>
-<p align="center">
-<img src="https://i.imgur.com/jSHJ5Ib.png" width="200"> <br>
-Brought to you by Lyceion
-</p>
+<h1>CuralOSX</h1> <br>
 
-##### NOTE: THIS PROJECT IS DEPRECATED.
-ButOSX is an internal cheat project for Counter Strike: Global Offensive. This project is made with educational purposes. This is my second big C++ project, so code is probably very messy. Apologies....
 
-Menu key is **Right Arrow** or **Insert**
+##### NOTE: This project is a WiP copy-pasta :/
+The code is awful, probably full of mistakes.
+It works, but uhm, its sht.
+
+Menu key is Insert
 
 UI is powered by ImGui.
 
 ### Features:
 - UI
     - All powers which given by ImGui.
-    - Macbook Pro Touchbar support.
+    - Macbook Pro Touchbar support. //No idea, the base had it. Cant test
 - Visuals
     - ESP
         - Box
         - Name
+        - Healthbar
+        - Skeletoin
     - Watermark
     - Night Mode (Beta ONLY)
     - No Visual Recoil
@@ -27,21 +27,31 @@ UI is powered by ImGui.
 - Miscs
     - Bunny Hop
 
-More will be not comming soon.
+- Aim
+    - Semi-Legit Aimbot (On/Off on L_Shift)
+    - Always RCS
+    - Triggerbot (Mouse4)
+    - RageBot (partially working)
+
+More will be maybe comming soon.
+But probably not.
 
 ### Screenshots:
 [![Screenshot 1](https://i.imgur.com/8zmB3Hd.png "Screenshot 1")](https://i.imgur.com/8zmB3Hd.png "Screenshot 1")
 [![Screenshot 2](https://i.imgur.com/1rlDksO.png "Screenshot 2")](https://i.imgur.com/1rlDksO.png "Screenshot 2")
 
-##### Also includes TouchBar API:
+##### Also includes TouchBar API: (I think)
 [![Touchbar 1](https://i.imgur.com/hpJb5nz.png "Touchbar 1")](https://i.imgur.com/hpJb5nz.png "Touchbar 1")
 [![Touchbar 2](https://i.imgur.com/uDwdRP7.png "Touchbar 2")](https://i.imgur.com/uDwdRP7.png "Touchbar 2")
 [![Touchbar 3](https://i.imgur.com/3XqzUoV.png "Touchbar 3")](https://i.imgur.com/3XqzUoV.png "Touchbar 3")
 [![Touchbar 4](https://i.imgur.com/4MxdOKf.png "Touchbar 4")](https://i.imgur.com/4MxdOKf.png "Touchbar 4")
 
 ### Credits
+
+[lysep-corp/ButOSX](https://github.com/lysep-corp/ButOSX) for the Base. <br>
+[pwnedboi/gosx-self-leak](https://github.com/pwnedboi/gosx-self-leak) GOSX self-leak - copypasted some code <br>
+[mxwll1/GO-SX-Internal-Lite](https://github.com/mxwll1/GO-SX-Internal-Lite) GO-SX Internal Lite copypasted some code <br>
 [dwnste/imgui_sdl_osx](https://github.com/dwnste/imgui_sdl_osx) for SDL2 hooking example. <br>
 [sonicrules11/Microwave-Open-Source](https://github.com/sonicrules11/Microwave-Open-Source)  for some functions. <br>
 [xMuratY/TouchBar-ObjectiveC](https://github.com/Lyceion/TouchBar-ObjectiveC)  for TouchBar API <br>
- And where i pasted from (IDK I Don't remember this is big cpp project)<br>
- <br>
+
