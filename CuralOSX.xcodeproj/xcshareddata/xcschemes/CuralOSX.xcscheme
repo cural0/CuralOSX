@@ -16,8 +16,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "1A471E1E254A1CA400FFF49B"
                BuildableName = "libCuralOSX.dylib"
-               BlueprintName = "ButOSX"
-               ReferencedContainer = "container:ButOSX.xcodeproj">
+               BlueprintName = "CuralOSX"
+               ReferencedContainer = "container:CuralOSX.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -52,8 +52,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1A471E1E254A1CA400FFF49B"
             BuildableName = "libCuralOSX.dylib"
-            BlueprintName = "ButOSX"
-            ReferencedContainer = "container:ButOSX.xcodeproj">
+            BlueprintName = "CuralOSX"
+            ReferencedContainer = "container:CuralOSX.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>

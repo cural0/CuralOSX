@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:ButOSX.xcodeproj">
+      location = "self:/Users/michalcural/Documents/new cheat/CuralOSX/CuralOSX.xcodeproj">
    </FileRef>
 </Workspace>

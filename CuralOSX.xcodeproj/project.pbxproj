@@ -487,7 +487,7 @@
 		1A471E16254A1CA300FFF49B = {
 			isa = PBXGroup;
 			children = (
-				1A471E21254A1CA400FFF49B /* ButOSX */,
+				1A471E21254A1CA400FFF49B /* CuralOSX */,
 				1A471E20254A1CA400FFF49B /* Products */,
 				1A471E4D254A1EF000FFF49B /* Frameworks */,
 			);
@@ -501,7 +501,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		1A471E21254A1CA400FFF49B /* ButOSX */ = {
+		1A471E21254A1CA400FFF49B /* CuralOSX */ = {
 			isa = PBXGroup;
 			children = (
 				1A017BA525C4C2A80096CFA8 /* LICENSE */,
@@ -516,7 +516,7 @@
 				368546482651A0E400B3A502 /* ButOSX.cpp */,
 				1A471E26254A1CA400FFF49B /* dylibmain.cpp */,
 			);
-			path = ButOSX;
+			path = CuralOSX;
 			sourceTree = "<group>";
 		};
 		1A471E2D254A1D0400FFF49B /* Thirdparty */ = {
@@ -1075,9 +1075,9 @@
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		1A471E1E254A1CA400FFF49B /* ButOSX */ = {
+		1A471E1E254A1CA400FFF49B /* CuralOSX */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1A471E2A254A1CA400FFF49B /* Build configuration list for PBXNativeTarget "ButOSX" */;
+			buildConfigurationList = 1A471E2A254A1CA400FFF49B /* Build configuration list for PBXNativeTarget "CuralOSX" */;
 			buildPhases = (
 				1A471E1B254A1CA400FFF49B /* Headers */,
 				1A471E1C254A1CA400FFF49B /* Sources */,
@@ -1087,7 +1087,7 @@
 			);
 			dependencies = (
 			);
-			name = ButOSX;
+			name = CuralOSX;
 			productName = ButOSX;
 			productReference = 1A471E1F254A1CA400FFF49B /* libCuralOSX.dylib */;
 			productType = "com.apple.product-type.library.dynamic";
@@ -1106,7 +1106,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 1A471E1A254A1CA300FFF49B /* Build configuration list for PBXProject "ButOSX" */;
+			buildConfigurationList = 1A471E1A254A1CA300FFF49B /* Build configuration list for PBXProject "CuralOSX" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -1119,7 +1119,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				1A471E1E254A1CA400FFF49B /* ButOSX */,
+				1A471E1E254A1CA400FFF49B /* CuralOSX */,
 			);
 		};
 /* End PBXProject section */
@@ -1340,7 +1340,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1A471E1A254A1CA300FFF49B /* Build configuration list for PBXProject "ButOSX" */ = {
+		1A471E1A254A1CA300FFF49B /* Build configuration list for PBXProject "CuralOSX" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1A471E28254A1CA400FFF49B /* Debug */,
@@ -1349,7 +1349,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1A471E2A254A1CA400FFF49B /* Build configuration list for PBXNativeTarget "ButOSX" */ = {
+		1A471E2A254A1CA400FFF49B /* Build configuration list for PBXNativeTarget "CuralOSX" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1A471E2B254A1CA400FFF49B /* Debug */,
