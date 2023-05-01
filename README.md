@@ -18,7 +18,7 @@ UI is powered by ImGui.
         - Box
         - Name
         - Healthbar
-        - Skeletoin
+        - Skeleton
     - Watermark
     - Night Mode (Beta ONLY)
     - No Visual Recoil
@@ -37,8 +37,10 @@ More will be maybe comming soon.
 But probably not.
 
 ### Screenshots:
-[![Screenshot 1](https://i.imgur.com/8zmB3Hd.png "Screenshot 1")](https://i.imgur.com/8zmB3Hd.png "Screenshot 1")
-[![Screenshot 2](https://i.imgur.com/1rlDksO.png "Screenshot 2")](https://i.imgur.com/1rlDksO.png "Screenshot 2")
+[![Screenshot 1](https://i.imgur.com/N9uqNBP.png "Screenshot 1")](https://i.imgur.com/N9uqNBP.png "Screenshot 1")
+[![Screenshot 2](https://i.imgur.com/owjrTTp.png "Screenshot 2")](https://i.imgur.com/owjrTTp.png "Screenshot 2")
+[![Screenshot 3](https://i.imgur.com/PNMwTew.png "Screenshot 3")](https://i.imgur.com/PNMwTew.png "Screenshot 3")
+[![Screenshot 4](https://i.imgur.com/EuF5VAN.png "Screenshot 4")](https://i.imgur.com/EuF5VAN.png "Screenshot 4")
 
 ##### Also includes TouchBar API: (I think)
 [![Touchbar 1](https://i.imgur.com/hpJb5nz.png "Touchbar 1")](https://i.imgur.com/hpJb5nz.png "Touchbar 1")
