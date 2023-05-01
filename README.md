@@ -55,3 +55,10 @@ But probably not.
 [sonicrules11/Microwave-Open-Source](https://github.com/sonicrules11/Microwave-Open-Source)  for some functions. <br>
 [xMuratY/TouchBar-ObjectiveC](https://github.com/Lyceion/TouchBar-ObjectiveC)  for TouchBar API <br>
 
+
+### Injecting
+
+Probably the only injector working on M1 Macs
+
+[kotleni/csgo-run](https://github.com/kotleni/csgo-run)
+
