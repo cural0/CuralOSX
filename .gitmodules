@@ -1,0 +1,12 @@
+[submodule "ButOSX/Thirdparty/imgui"]
+	path = ButOSX/Thirdparty/imgui
+	url = https://github.com/ocornut/imgui
+[submodule "ButOSX/Thirdparty/xorstr"]
+	path = ButOSX/Thirdparty/xorstr
+	url = https://github.com/qis/xorstr
+[submodule "ButOSX/Thirdparty/SDL2"]
+	path = ButOSX/Thirdparty/SDL2
+	url = https://github.com/libsdl-org/SDL
+[submodule "ButOSX/Thirdparty/discord-rpc"]
+	path = ButOSX/Thirdparty/discord-rpc
+	url = https://github.com/discord/discord-rpc
