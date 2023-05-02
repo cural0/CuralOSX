@@ -60,7 +60,7 @@ But probably not.
 
 ### Injecting
 
-Probably the only injector working on M1 Macs
+Probably the only injector working on M1 Macs.
 
 [kotleni/csgo-run](https://github.com/kotleni/csgo-run)
 
