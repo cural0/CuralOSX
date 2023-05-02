@@ -43,10 +43,9 @@ But probably not.
 [![Screenshot 4](https://i.imgur.com/EuF5VAN.png "Screenshot 4")](https://i.imgur.com/EuF5VAN.png "Screenshot 4")
 
 ##### Also includes TouchBar API: (I think)
-[![Touchbar 1](https://i.imgur.com/hpJb5nz.png "Touchbar 1")](https://i.imgur.com/hpJb5nz.png "Touchbar 1")
-[![Touchbar 2](https://i.imgur.com/uDwdRP7.png "Touchbar 2")](https://i.imgur.com/uDwdRP7.png "Touchbar 2")
-[![Touchbar 3](https://i.imgur.com/3XqzUoV.png "Touchbar 3")](https://i.imgur.com/3XqzUoV.png "Touchbar 3")
-[![Touchbar 4](https://i.imgur.com/4MxdOKf.png "Touchbar 4")](https://i.imgur.com/4MxdOKf.png "Touchbar 4")
+[![Touchbar 1](https://i.imgur.com/WiPZdCO.png "Touchbar 1")](https://i.imgur.com/WiPZdCO.png "Touchbar 1")
+[![Touchbar 2](https://i.imgur.com/NEj5ajN.png "Touchbar 2")](https://i.imgur.com/NEj5ajN.png "Touchbar 2")
+
 
 ### Credits
 
