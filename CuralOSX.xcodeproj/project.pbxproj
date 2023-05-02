@@ -138,8 +138,6 @@
 		8D1965FA29EB241C00B47988 /* manager.mm in Sources */ = {isa = PBXBuildFile; fileRef = 8D1965F829EB241C00B47988 /* manager.mm */; };
 		8D1965FB29EB241C00B47988 /* manager.h in Headers */ = {isa = PBXBuildFile; fileRef = 8D1965F929EB241C00B47988 /* manager.h */; };
 		8D1965FD29EB242E00B47988 /* triangles.h in Headers */ = {isa = PBXBuildFile; fileRef = 8D1965FC29EB242E00B47988 /* triangles.h */; };
-		8D1965FE29EB260800B47988 /* Radar.h in Headers */ = {isa = PBXBuildFile; fileRef = 8D4FAF5329EB168000E4EB4D /* Radar.h */; };
-		8D1965FF29EB260800B47988 /* Radar.mm in Sources */ = {isa = PBXBuildFile; fileRef = 8D4FAF5429EB168000E4EB4D /* Radar.mm */; };
 		8D19660329EB281B00B47988 /* cstrike_icons.h in Headers */ = {isa = PBXBuildFile; fileRef = 8D19660129EB281B00B47988 /* cstrike_icons.h */; };
 		8D19660429EB281B00B47988 /* cstrike_icons.mm in Sources */ = {isa = PBXBuildFile; fileRef = 8D19660229EB281B00B47988 /* cstrike_icons.mm */; };
 		8D2315FC29E722C100DB7B16 /* AimHelper.h in Headers */ = {isa = PBXBuildFile; fileRef = 8D541F3B29C6B185005D6BC1 /* AimHelper.h */; };
@@ -153,6 +151,8 @@
 		8D5BA77529DA0AA0001822B9 /* MyAimBot.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D4DBBE629CF677600CABDA6 /* MyAimBot.cpp */; };
 		8D5BA77F29DA0E11001822B9 /* CCSWpnInfo.h in Headers */ = {isa = PBXBuildFile; fileRef = 8D5BA77E29DA0E11001822B9 /* CCSWpnInfo.h */; };
 		8D5BA78129DA0F77001822B9 /* IPhysicsSurfaceProps.h in Headers */ = {isa = PBXBuildFile; fileRef = 8D5BA78029DA0F77001822B9 /* IPhysicsSurfaceProps.h */; };
+		8D6EAC782A018BA0005212A2 /* Radar.mm in Sources */ = {isa = PBXBuildFile; fileRef = 8D4FAF5429EB168000E4EB4D /* Radar.mm */; };
+		8D6EAC792A018BA0005212A2 /* Radar.h in Headers */ = {isa = PBXBuildFile; fileRef = 8D4FAF5329EB168000E4EB4D /* Radar.h */; };
 		8D86165229DB6BA6001EF351 /* Checksum_MD5.h in Headers */ = {isa = PBXBuildFile; fileRef = 8D86165129DB6BA6001EF351 /* Checksum_MD5.h */; };
 		8D947C9F29D760A3003D4C79 /* C_BaseEntity.h in Headers */ = {isa = PBXBuildFile; fileRef = 1A42E93225BC99C0006BB177 /* C_BaseEntity.h */; };
 		8D99387229D3537F00EA942A /* weapons.h in Headers */ = {isa = PBXBuildFile; fileRef = 8D99387029D3537F00EA942A /* weapons.h */; };
@@ -953,7 +953,6 @@
 				8D0BE84129E309F000A9AD5C /* IMoveHelper.h in Headers */,
 				1AA4A4E125CB58BA00621AEB /* close_code.h in Headers */,
 				1AA4A4E825CB58BA00621AEB /* SDL_opengles2_khrplatform.h in Headers */,
-				8D1965FE29EB260800B47988 /* Radar.h in Headers */,
 				1AA4A49E25CB58B900621AEB /* SDL_clipboard.h in Headers */,
 				1AA4A4CE25CB58BA00621AEB /* SDL_timer.h in Headers */,
 				1AA4A4B125CB58BA00621AEB /* SDL_main.h in Headers */,
@@ -965,6 +964,7 @@
 				1AA4A4B925CB58BA00621AEB /* SDL_test_images.h in Headers */,
 				1AA4A4C025CB58BA00621AEB /* SDL_config_macosx.h in Headers */,
 				8DE3645D29D25FC200E4E3A2 /* utils.h in Headers */,
+				8D6EAC792A018BA0005212A2 /* Radar.h in Headers */,
 				1AA4A4BE25CB58BA00621AEB /* SDL_locale.h in Headers */,
 				1AA4A4D525CB58BA00621AEB /* SDL_bits.h in Headers */,
 				1AA4A4B225CB58BA00621AEB /* SDL_stdinc.h in Headers */,
@@ -1133,10 +1133,10 @@
 				1AF384DE254CBE2400336590 /* CustomWidgets.cpp in Sources */,
 				1A471E27254A1CA400FFF49B /* dylibmain.cpp in Sources */,
 				36DE0634261A4ED100F7F17F /* TouchBar.m in Sources */,
-				8D1965FF29EB260800B47988 /* Radar.mm in Sources */,
 				1A7C475A254EE8D700A58870 /* GameHooker.cpp in Sources */,
 				1A471E3F254A1D6000FFF49B /* imgui.cpp in Sources */,
 				3637344B265FE01300D1CBF9 /* Memory.cpp in Sources */,
+				8D6EAC782A018BA0005212A2 /* Radar.mm in Sources */,
 				1A42E94B25BCA3D6006BB177 /* ESP.cpp in Sources */,
 				8DAA5C9D29C60B8100EB9506 /* AlwaysRCS.mm in Sources */,
 				1A518E5125C206980080F876 /* Others.cpp in Sources */,
