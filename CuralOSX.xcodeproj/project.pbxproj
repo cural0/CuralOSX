@@ -365,6 +365,7 @@
 		8D1965FC29EB242E00B47988 /* triangles.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = triangles.h; sourceTree = "<group>"; };
 		8D19660129EB281B00B47988 /* cstrike_icons.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = cstrike_icons.h; sourceTree = "<group>"; };
 		8D19660229EB281B00B47988 /* cstrike_icons.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = cstrike_icons.mm; sourceTree = "<group>"; };
+		8D1FF9372A01950800AF6FC1 /* .github */ = {isa = PBXFileReference; lastKnownFileType = folder; path = .github; sourceTree = "<group>"; };
 		8D2315FE29E723FF00DB7B16 /* GlobalVars.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GlobalVars.h; sourceTree = "<group>"; };
 		8D3CA69929DA219C003B57D6 /* RageBot.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = RageBot.mm; sourceTree = "<group>"; };
 		8D3CA69A29DA219C003B57D6 /* RageBot.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RageBot.h; sourceTree = "<group>"; };
@@ -487,6 +488,7 @@
 		1A471E16254A1CA300FFF49B = {
 			isa = PBXGroup;
 			children = (
+				8D1FF9372A01950800AF6FC1 /* .github */,
 				1A471E21254A1CA400FFF49B /* CuralOSX */,
 				1A471E20254A1CA400FFF49B /* Products */,
 				1A471E4D254A1EF000FFF49B /* Frameworks */,

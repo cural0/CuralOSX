@@ -12,7 +12,7 @@ UI is powered by ImGui.
 ### Features:
 - UI
     - All powers which given by ImGui.
-    - Macbook Pro Touchbar support. //No idea, the base had it. Cant test
+    - Macbook Pro Touchbar support. //Mostly working
 - Visuals
     - ESP
         - Box
